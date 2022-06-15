@@ -1,0 +1,14 @@
+Informacion de mi computador
+Memoria_total : 4192575488
+Version del sistema Operativo : 10.0.19041
+Nombre del computador : viaodiego
+Nombre del sistema operativo : Windows_NT
+endianness de la cpu : LE
+tiempo del sistema encendido : 447588
+plataforma para el sistema de compilacion : win32
+promedio de carga del pc : 0,0,0
+ruta de la cadena del directorio : C:\Users\Diego
+arquitectura de la CPU  del sistema operatvo : x64
+fin de linea del sistema : 
+
+sistema operativo como una cadena : 10.0.19041
